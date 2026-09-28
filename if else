@@ -1,0 +1,24 @@
+#program to find the whether the person has above 18 age;
+"""
+age=int(input("enter person age"))
+if age>=18:
+    print("eligible to vote")
+else:
+    print("not eligible to vote")
+"""
+"""
+   program to check student pass or fail    
+mark=int(input("enter student marks in exam"))
+if mark>=35:
+    print("you are pass")
+else:
+    print("you are fail need to improve your marks")
+
+"""
+#program to find whether the number is even or odd
+num=int(input("enter the number"))
+if num%2==0:
+    print("the number is even",num)
+else:
+    print("The number is odd",num)    
+
